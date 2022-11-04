@@ -1,8 +1,8 @@
 import React from "react";
 import NavBar from "./nav.jsx";
-import Card from "/workspace/Landing-Page-/src/js/component/card.jsx";
-import Jumbo from "/workspace/Landing-Page-/src/js/component/Jumbotron.jsx"
-import Footer from "/workspace/Landing-Page-/src/js/component/footer.jsx"
+import Card from "./card.jsx";
+import Jumbo from "./Jumbotron.jsx"
+import Footer from "./footer.jsx"
 
 
 //create your first component
